@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updated": "2026-11-15T22:16:30.152Z",
+  "builds": [
+    {
+      "version": "1.0.0",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.0.0.dll",
+      "sha256": "ce8f941dfc80d1712e276be889630f42d70b9c33ffcaf5c05ef6d7ed11c6b090",
+      "size": 1606656,
+      "notes": "first release",
+      "date": "2026-11-15T22:16:29.890Z"
+    }
+  ],
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.0.0/Essential-Client-Setup-1.0.0.exe",
+    "sha256": "1fa4039901682a610318bf012766abd98cc399da0b1064c9b70b0f0faedb75d2",
+    "size": 128330633
+  }
+}
