@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-15T22:25:13.867Z",
+  "updated": "2026-11-16T02:07:21.897Z",
   "builds": [
+    {
+      "version": "1.1.0",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.1.0.dll",
+      "sha256": "5dbc00e2bd1dd6a37382cb5824556a2348d1ebb460d39241d92e332ab0235630",
+      "size": 2081280,
+      "notes": "New look, hud only in game, full input blocking, 42 modules, fps boosters, game modules",
+      "date": "2026-11-16T02:07:21.772Z"
+    },
     {
       "version": "1.0.0",
       "channel": "stable",
@@ -16,9 +28,9 @@
     }
   ],
   "launcher": {
-    "version": "1.0.1",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.0.1/Essential-Client-1.0.1.exe",
-    "sha256": "cd720d168514866af0f6d2332c6e7d990d83c562d635ec3066e4c7b5ee4a05a8",
-    "size": 115962157
+    "version": "1.1.0",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.1.0/Essential-Client-1.1.0.exe",
+    "sha256": "91000af045e115746b45acf12eeed9f5fbc78c16651c96a2f98639cd1138f47d",
+    "size": 112011765
   }
 }
