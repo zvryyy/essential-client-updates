@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-16T02:07:21.897Z",
+  "updated": "2026-11-16T11:58:23.230Z",
   "builds": [
+    {
+      "version": "1.1.2",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.1.2.dll",
+      "sha256": "7fb5e279f6bd8ef77a27dbf928a7bcec98c7f1dbba29a486560aa9348d8d9036",
+      "size": 2116608,
+      "notes": "No walking or looking in the menu, no camera jump or flicker on close, menu only while playing, effects display, armor and totem hud, unlimited fps cap, greyed out options that are not ready",
+      "date": "2026-11-16T11:58:22.944Z"
+    },
     {
       "version": "1.1.0",
       "channel": "stable",
@@ -28,9 +40,9 @@
     }
   ],
   "launcher": {
-    "version": "1.1.0",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.1.0/Essential-Client-1.1.0.exe",
-    "sha256": "91000af045e115746b45acf12eeed9f5fbc78c16651c96a2f98639cd1138f47d",
-    "size": 112011765
+    "version": "1.1.2",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.1.2/Essential-Client-1.1.2.exe",
+    "sha256": "fdfc9a4f81cb199f038b08e1daf63367a96790d11e833f11dd3ab37ac5fb4b5a",
+    "size": 112029881
   }
 }
