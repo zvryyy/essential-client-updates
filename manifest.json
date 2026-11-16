@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-16T17:18:11.418Z",
+  "updated": "2026-11-16T20:52:33.899Z",
   "builds": [
+    {
+      "version": "1.1.5",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.1.5.dll",
+      "sha256": "6ebcd99f49953d501c25964b5a5c25f5c6cce4dffaf347c26d2727983ad77340",
+      "size": 2192384,
+      "notes": "Armor hud, health warning, health indicator and hitboxes fixed; no camera jump after closing the menu; F1 hides the client hud; client menu opens in game menus; movable hud editor bar.",
+      "date": "2026-11-16T20:52:33.898Z"
+    },
     {
       "version": "1.1.4",
       "channel": "stable",
