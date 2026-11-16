@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-16T20:52:33.899Z",
+  "updated": "2026-11-16T22:07:12.593Z",
   "builds": [
+    {
+      "version": "1.1.6",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.1.6.dll",
+      "sha256": "ff96d6012ee58cd4bff52c4a643aed87f1ae393440927e25ea49911c7b80131c",
+      "size": 2192384,
+      "notes": "Checked for Minecraft 1.26.65.",
+      "date": "2026-11-16T22:07:12.592Z"
+    },
     {
       "version": "1.1.5",
       "channel": "stable",
