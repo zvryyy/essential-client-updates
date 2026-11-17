@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T16:28:48.155Z",
+  "updated": "2026-11-17T19:39:49.336Z",
   "builds": [
+    {
+      "version": "1.2.7",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.2.7.dll",
+      "sha256": "f09649f7f43638fc14cf3413955b24e840ca8b99f04fe8a40c3642ec7bd5ef78",
+      "size": 2215424,
+      "notes": "hitbox outlines and health bars no longer blocked by switched-off packs, reach default 3.35, safer launcher updates",
+      "date": "2026-11-17T19:39:49.103Z"
+    },
     {
       "version": "1.2.6",
       "channel": "stable",
@@ -112,9 +124,9 @@
     }
   ],
   "launcher": {
-    "version": "1.2.6",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.2.6/Essential-Client-1.2.6.exe",
-    "sha256": "abe4e1643d396b922a5b27e90a681f66e3b89ebc46848ddcac1aa76d3cdf6807",
-    "size": 112103883
+    "version": "1.2.7",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.2.7/Essential-Client-1.2.7.exe",
+    "sha256": "d527a5be1a138b278e049c22753a63e3119fa21c1b18f20799eb43ab7e676026",
+    "size": 112104494
   }
 }
