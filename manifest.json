@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-17T14:43:11.266Z",
+  "updated": "2026-11-17T16:28:48.155Z",
   "builds": [
+    {
+      "version": "1.2.6",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.2.6.dll",
+      "sha256": "029df88b4f7e244e7e5e4bc274e24ef562ca6380f01a0b5891067408bccfd431",
+      "size": 2215424,
+      "notes": "hitbox outlines, viewmodel and better health bars through the resource pack",
+      "date": "2026-11-17T16:28:47.873Z"
+    },
     {
       "version": "1.2.5",
       "channel": "stable",
@@ -100,9 +112,9 @@
     }
   ],
   "launcher": {
-    "version": "1.2.5",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.2.5/Essential-Client-1.2.5.exe",
-    "sha256": "39840d5c50eb8e050d5d13bcc79ced5f79c3a38589c54e997b8ce776db8a5a7d",
-    "size": 112097070
+    "version": "1.2.6",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.2.6/Essential-Client-1.2.6.exe",
+    "sha256": "abe4e1643d396b922a5b27e90a681f66e3b89ebc46848ddcac1aa76d3cdf6807",
+    "size": 112103883
   }
 }
