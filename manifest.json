@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-20T22:59:47.501Z",
+  "updated": "2026-11-20T23:21:30.137Z",
   "builds": [
+    {
+      "version": "1.5.1",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.1.dll",
+      "sha256": "70a118a97ea5782a0015f006823880923d25f12054738e4f00b46d55b276a21d",
+      "size": 2315264,
+      "notes": "New look, picture crosshair and HUD, config import, more module settings. Free works without a key.",
+      "date": "2026-11-20T23:21:29.902Z"
+    },
     {
       "version": "1.2.8",
       "channel": "stable",
@@ -136,9 +148,9 @@
     }
   ],
   "launcher": {
-    "version": "1.2.8",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.2.8/Essential-Client-1.2.8.exe",
-    "sha256": "06a7e42e1efcf90b5c9cda8067f88aa79000c0abeafb25b1d11a3548ef2868b9",
-    "size": 112105830
+    "version": "1.5.1",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.1/Essential-Client-1.5.1.exe",
+    "sha256": "5440a728091d7f0bfab467e8ebead9493edc018cad7b09ca38b5558c0a93534a",
+    "size": 112138067
   }
 }
