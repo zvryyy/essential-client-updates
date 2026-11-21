@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T05:15:18.713Z",
+  "updated": "2026-11-21T20:36:50.892Z",
   "builds": [
+    {
+      "version": "1.5.1",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.1.dll",
+      "sha256": "a0cab860b7f262622432d2bc129b1d2bcb9ea4be707689a26c1c4d03c9220fcb",
+      "size": 2364928,
+      "notes": "Built on 1.5.7 with: capital letters on every word in names, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen on menu or view change, the new hitboxes and health bars, and no Essential pack when you play without Essential Client. Free works without a key.",
+      "date": "2026-11-21T20:36:50.734Z"
+    },
     {
       "version": "1.5.0",
       "channel": "stable",
@@ -148,9 +160,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.0",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5/Essential-Client-1.5.exe",
-    "sha256": "88486f9b078de118693a793922b674f030dca682016fd9901c5f6aa4ce2a5fe3",
-    "size": 112139757
+    "version": "1.5.1",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.1/Essential-Client-1.5.1.exe",
+    "sha256": "6fa2e3077ae59931e1b7a853ef560f95225122f4b5020c9d0aca3a4c1aa3ce47",
+    "size": 112154081
   }
 }
