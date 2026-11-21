@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T04:35:27.398Z",
+  "updated": "2026-11-21T04:54:27.556Z",
   "builds": [
     {
-      "version": "1.5.3",
+      "version": "1.5.0",
       "channel": "stable",
       "mc": [
         "*"
       ],
-      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.3.dll",
-      "sha256": "c7b2a4523eadb566db51446e21a87ab7448ea86b576b23a983355a058d7c1822",
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.0.dll",
+      "sha256": "8001003383dc4a81e47a0f67a4770cf9a80e67c0f501672c224521d147c9270f",
       "size": 2315776,
-      "notes": "New look, picture crosshair, config import. Module names with capital letters, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen when you open the menu or change view. Free works without a key.",
-      "date": "2026-11-21T04:35:27.166Z"
+      "notes": "Your friend's 1.5 with: every word in module and setting names starts with a capital, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen when you open the menu or change view, the new hitboxes and health bars switched on once. Free works without a key.",
+      "date": "2026-11-21T04:54:27.320Z"
     },
     {
       "version": "1.2.8",
@@ -148,9 +148,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.3",
+    "version": "1.5.0",
     "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5/Essential-Client-1.5.exe",
-    "sha256": "a84dd5ad72e906459a76425bb500b7fba959fa13b805a2197e2603c2b3a819b1",
-    "size": 112132191
+    "sha256": "cb42046d3f32020c5b8b1c9ab19ca359bc886c18e3002febeba6ced57ed227e6",
+    "size": 112135120
   }
 }
