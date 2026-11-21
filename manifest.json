@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T00:20:32.770Z",
+  "updated": "2026-11-21T00:44:01.136Z",
   "builds": [
     {
-      "version": "1.5.0",
+      "version": "1.5.2",
       "channel": "stable",
       "mc": [
         "*"
       ],
-      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.0.dll",
-      "sha256": "bbc6d743bf4f9e7b4ac80ee0dc1a22409f18e6d811a9ab9092b4d830068d5154",
-      "size": 2315776,
-      "notes": "New look, picture crosshair and HUD, config import and more module settings. Free works without a key.",
-      "date": "2026-11-21T00:20:32.560Z"
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.2.dll",
+      "sha256": "f0b41a12e440eb7b25021e1870111f031c1c74e2c68a00e8d18ebe5bd92a568b",
+      "size": 2215936,
+      "notes": "Toggle sprint and sneak fixed, no more on/off pop-ups, delete codes in the key maker. Free works without a key.",
+      "date": "2026-11-21T00:44:00.976Z"
     },
     {
       "version": "1.2.8",
@@ -148,9 +148,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.0",
+    "version": "1.5.2",
     "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5/Essential-Client-1.5.exe",
-    "sha256": "f20fd35255226d2c6aa25ceb23920c2e3d8e334239f2152a6110190e0849c248",
-    "size": 112134990
+    "sha256": "48caa5efa5401592a4eaecf07ffaec9c0212729ac6480f232fcdc0544b01bafc",
+    "size": 112109740
   }
 }
