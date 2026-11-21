@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T00:44:01.136Z",
+  "updated": "2026-11-21T04:35:27.398Z",
   "builds": [
     {
-      "version": "1.5.2",
+      "version": "1.5.3",
       "channel": "stable",
       "mc": [
         "*"
       ],
-      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.2.dll",
-      "sha256": "f0b41a12e440eb7b25021e1870111f031c1c74e2c68a00e8d18ebe5bd92a568b",
-      "size": 2215936,
-      "notes": "Toggle sprint and sneak fixed, no more on/off pop-ups, delete codes in the key maker. Free works without a key.",
-      "date": "2026-11-21T00:44:00.976Z"
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.3.dll",
+      "sha256": "c7b2a4523eadb566db51446e21a87ab7448ea86b576b23a983355a058d7c1822",
+      "size": 2315776,
+      "notes": "New look, picture crosshair, config import. Module names with capital letters, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen when you open the menu or change view. Free works without a key.",
+      "date": "2026-11-21T04:35:27.166Z"
     },
     {
       "version": "1.2.8",
@@ -148,9 +148,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5/Essential-Client-1.5.exe",
-    "sha256": "48caa5efa5401592a4eaecf07ffaec9c0212729ac6480f232fcdc0544b01bafc",
-    "size": 112109740
+    "sha256": "a84dd5ad72e906459a76425bb500b7fba959fa13b805a2197e2603c2b3a819b1",
+    "size": 112132191
   }
 }
