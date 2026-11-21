@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T04:54:27.556Z",
+  "updated": "2026-11-21T05:15:18.713Z",
   "builds": [
     {
       "version": "1.5.0",
@@ -11,8 +11,8 @@
       "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.0.dll",
       "sha256": "8001003383dc4a81e47a0f67a4770cf9a80e67c0f501672c224521d147c9270f",
       "size": 2315776,
-      "notes": "Your friend's 1.5 with: every word in module and setting names starts with a capital, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen when you open the menu or change view, the new hitboxes and health bars switched on once. Free works without a key.",
-      "date": "2026-11-21T04:54:27.320Z"
+      "notes": "Your friend's 1.5 with: every word in names starts with a capital, toggle sprint and sneak use your own Minecraft keys, no on/off pop-ups, no HUD left on screen when you open the menu or change view, the new hitboxes and health bars, and the Essential pack is removed when you play Minecraft without Essential Client. Free works without a key.",
+      "date": "2026-11-21T05:15:18.558Z"
     },
     {
       "version": "1.2.8",
@@ -150,7 +150,7 @@
   "launcher": {
     "version": "1.5.0",
     "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5/Essential-Client-1.5.exe",
-    "sha256": "cb42046d3f32020c5b8b1c9ab19ca359bc886c18e3002febeba6ced57ed227e6",
-    "size": 112135120
+    "sha256": "88486f9b078de118693a793922b674f030dca682016fd9901c5f6aa4ce2a5fe3",
+    "size": 112139757
   }
 }
