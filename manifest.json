@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T05:22:07.025Z",
+  "updated": "2026-11-23T07:07:26.530Z",
   "builds": [
     {
       "version": "1.5.9",
@@ -11,8 +11,8 @@
       "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.9.dll",
       "sha256": "d4bf29de7382c489ed79da5dc3e7b118769b8d7ed15064c57a47af9817d50597",
       "size": 2702336,
-      "notes": "Hurt colour added (recolours the damage flash, off by default). Name tags more reliable. The screen-recording fix and controller handling from 1.5.8 made safer and more stable. Free, no key. Open the launcher and it updates itself.",
-      "date": "2026-11-23T05:22:06.907Z"
+      "notes": "Big update, with the launcher start crash fixed. New: Tab List, Name Tags, .nickname, Stretched Resolution, in-game Pack Switcher, hurt colour. Crosshair no longer grows on hit; reach counter only counts real hits. Armor + potion HUD with real icons and glint. Sharper zoom, better FPS tweaks, full controller support. HUD shows in screen recordings. The launcher updates itself when you open it. Free, no key.",
+      "date": "2026-11-23T07:07:26.355Z"
     },
     {
       "version": "1.5.8",
@@ -186,7 +186,7 @@
   "launcher": {
     "version": "1.5.9",
     "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.9/Essential-Client-1.5.9.exe",
-    "sha256": "817a202daf146daf9dace4136b9b20116132b9d26a727cdb812217819c1ec5f5",
-    "size": 112002615
+    "sha256": "cb0371ddbcb7ea2243856a02a2bd8b302941969768575e7e46a4cc6a910c687f",
+    "size": 112260669
   }
 }
