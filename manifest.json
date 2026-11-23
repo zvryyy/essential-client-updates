@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-21T20:36:50.892Z",
+  "updated": "2026-11-23T04:18:41.832Z",
   "builds": [
+    {
+      "version": "1.5.8",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.8.dll",
+      "sha256": "515960242d75fbd3dfa31279d3e5d7b841fb93e634ecc12dd98f5ddb9a7c4fc6",
+      "size": 2698240,
+      "notes": "Big update. New: Tab List, Name Tags (your own, and colour others), .nickname, Stretched Resolution, in-game Pack Switcher. Crosshair no longer grows on hit. Reach counter only counts real hits. Armor HUD shows item pictures with durability and enchant glint, main hand and off hand too. Potion HUD with real effect icons. Sharper zoom, better FPS tweaks, controller works everywhere. Your HUD now shows in screen recordings. The launcher updates itself when you open it. Free, no key.",
+      "date": "2026-11-23T04:18:41.715Z"
+    },
     {
       "version": "1.5.1",
       "channel": "stable",
@@ -160,9 +172,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.1",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.1/Essential-Client-1.5.1.exe",
-    "sha256": "6fa2e3077ae59931e1b7a853ef560f95225122f4b5020c9d0aca3a4c1aa3ce47",
-    "size": 112154081
+    "version": "1.5.8",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.8/Essential-Client-1.5.8.exe",
+    "sha256": "ee31116000e396f17e8d3b4487459bf475c0ae706dcf8e57808705383b75c762",
+    "size": 112002153
   }
 }
