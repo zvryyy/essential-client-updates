@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T11:50:22.823Z",
+  "updated": "2026-11-23T14:53:47.774Z",
   "builds": [
+    {
+      "version": "1.5.11",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.11.dll",
+      "sha256": "7bf3ec6ee5e8e016d1a7bb1bf051b70628ce5b5f373398d9d6f813c9b15b171b",
+      "size": 2704896,
+      "notes": "The HUD and modules now show in screen recordings and clips (OBS Game Capture, Medal). The overlay is drawn into the frame recorders capture.",
+      "date": "2026-11-23T14:53:47.626Z"
+    },
     {
       "version": "1.5.10",
       "channel": "stable",
@@ -196,9 +208,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.10",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.10/Essential-Client-1.5.10.exe",
-    "sha256": "3785c1480708f7a49619011312613f0503575bdc12b6bbba2a52ac9c14d15d43",
-    "size": 112245715
+    "version": "1.5.11",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.11/Essential-Client-1.5.11.exe",
+    "sha256": "71cce3e7e385a571b3d6edf3508956f99d4ca7bff01b4a2ebdfb4371f51cfd9a",
+    "size": 112243457
   }
 }
