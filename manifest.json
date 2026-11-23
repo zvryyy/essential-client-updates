@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T14:53:47.774Z",
+  "updated": "2026-11-23T16:37:06.832Z",
   "builds": [
+    {
+      "version": "1.5.12",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.12.dll",
+      "sha256": "6d781e05b28e073416fc805f8521b253eace49de438abc641d868ae077c0d14f",
+      "size": 2710016,
+      "notes": "Your own name tag now shows your name or nick and stays on (no more You, no vanishing). You appear in the tab list with an Essential Client badge. The HUD hides the instant you open a menu and returns the instant you close it. Reach counter works on servers that hide health. Armor HUD: swords and shields show their icon, and durability can sit left, right, above or below, in a row or a column. Smoother health indicator and low-health warning. Hidden entities stop rendering for more FPS.",
+      "date": "2026-11-23T16:37:06.565Z"
+    },
     {
       "version": "1.5.11",
       "channel": "stable",
@@ -208,9 +220,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.11",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.11/Essential-Client-1.5.11.exe",
-    "sha256": "71cce3e7e385a571b3d6edf3508956f99d4ca7bff01b4a2ebdfb4371f51cfd9a",
-    "size": 112243457
+    "version": "1.5.12",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.12/Essential-Client-1.5.12.exe",
+    "sha256": "40422dcb12a6d42fd3c287e575e15cf850dcb26f36f1d665ddde27d3ee24e9c2",
+    "size": 112247378
   }
 }
