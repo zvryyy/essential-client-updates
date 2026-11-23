@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T07:07:26.530Z",
+  "updated": "2026-11-23T11:50:22.823Z",
   "builds": [
+    {
+      "version": "1.5.10",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.10.dll",
+      "sha256": "0bd6defb95aec5714923c732fd58b92dbf902e8ab79ef5a9a41809a5b13f337d",
+      "size": 2704384,
+      "notes": "Fog fix: the launcher no longer removes the client pack while you are in a world, and re-adds it on its own. Two new FPS options to hide entities and your first-person held item. Config migration and stability fixes.",
+      "date": "2026-11-23T11:50:22.540Z"
+    },
     {
       "version": "1.5.9",
       "channel": "stable",
@@ -184,9 +196,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.9",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.9/Essential-Client-1.5.9.exe",
-    "sha256": "cb0371ddbcb7ea2243856a02a2bd8b302941969768575e7e46a4cc6a910c687f",
-    "size": 112260669
+    "version": "1.5.10",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.10/Essential-Client-1.5.10.exe",
+    "sha256": "3785c1480708f7a49619011312613f0503575bdc12b6bbba2a52ac9c14d15d43",
+    "size": 112245715
   }
 }
