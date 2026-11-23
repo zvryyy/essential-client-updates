@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T16:37:06.832Z",
+  "updated": "2026-11-23T18:17:31.322Z",
   "builds": [
+    {
+      "version": "1.5.13",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.13.dll",
+      "sha256": "9ac9d71ca526484cb7c6098e1ab096cf046e6e63060e21b0fc7683d4d2795b43",
+      "size": 2713600,
+      "notes": "1.5.13 - fixes and speed. No more crash when a config cannot load; post-processing effects no longer break after a graphics hiccup; armor durability lines up straight on the left; your tab-list name aligns with everyone else's; Target HUD starts in a sensible spot; deleting a config no longer brings it back. Items from server or custom packs now show their real icon. Lighter per-frame work, same look.",
+      "date": "2026-11-23T18:17:31.188Z"
+    },
     {
       "version": "1.5.12",
       "channel": "stable",
@@ -220,9 +232,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.12",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.12/Essential-Client-1.5.12.exe",
-    "sha256": "40422dcb12a6d42fd3c287e575e15cf850dcb26f36f1d665ddde27d3ee24e9c2",
-    "size": 112247378
+    "version": "1.5.13",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.13/Essential-Client-1.5.13.exe",
+    "sha256": "c42149fc12e847dd3bb2ea4f4257b769f566fda6bede0bac46902273218bad1f",
+    "size": 112246024
   }
 }
