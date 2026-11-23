@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T04:18:41.832Z",
+  "updated": "2026-11-23T05:22:07.025Z",
   "builds": [
+    {
+      "version": "1.5.9",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.9.dll",
+      "sha256": "d4bf29de7382c489ed79da5dc3e7b118769b8d7ed15064c57a47af9817d50597",
+      "size": 2702336,
+      "notes": "Hurt colour added (recolours the damage flash, off by default). Name tags more reliable. The screen-recording fix and controller handling from 1.5.8 made safer and more stable. Free, no key. Open the launcher and it updates itself.",
+      "date": "2026-11-23T05:22:06.907Z"
+    },
     {
       "version": "1.5.8",
       "channel": "stable",
@@ -172,9 +184,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.8",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.8/Essential-Client-1.5.8.exe",
-    "sha256": "ee31116000e396f17e8d3b4487459bf475c0ae706dcf8e57808705383b75c762",
-    "size": 112002153
+    "version": "1.5.9",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.9/Essential-Client-1.5.9.exe",
+    "sha256": "817a202daf146daf9dace4136b9b20116132b9d26a727cdb812217819c1ec5f5",
+    "size": 112002615
   }
 }
