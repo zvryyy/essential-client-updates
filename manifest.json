@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-23T18:17:31.322Z",
+  "updated": "2026-11-24T16:45:20.437Z",
   "builds": [
+    {
+      "version": "1.5.14",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.14.dll",
+      "sha256": "1e73a8b0bac059b3bdbb24e464598e86bf32afb363b7581191ea226b97e2e4ea",
+      "size": 2713600,
+      "notes": "The client no longer needs the resource pack for hitboxes, health bars, glint or the crosshair - it draws them itself. The pack only loads for fog, fire and shield now.",
+      "date": "2026-11-24T16:45:20.153Z"
+    },
     {
       "version": "1.5.13",
       "channel": "stable",
@@ -232,9 +244,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.13",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.13/Essential-Client-1.5.13.exe",
-    "sha256": "c42149fc12e847dd3bb2ea4f4257b769f566fda6bede0bac46902273218bad1f",
-    "size": 112246024
+    "version": "1.5.14",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.14/Essential-Client-1.5.14.exe",
+    "sha256": "8520d7c7b871a3eb33697a70531c753ab0e8a8b8cda78655c8fa5553b1a5098d",
+    "size": 112249801
   }
 }
