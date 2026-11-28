@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-24T16:45:20.437Z",
+  "updated": "2026-11-28T00:09:05.094Z",
   "builds": [
+    {
+      "version": "1.5.15",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-1.5.15.dll",
+      "sha256": "0b7c9a88426782bb36908be13e7f01b02366c1338828491f4453157db7323724",
+      "size": 2714112,
+      "notes": "Fixes the client failing to start on some PCs (a Bad Image / 0xc000012f error on Windows versions missing a graphics file). Everything from 1.5.14 is included.",
+      "date": "2026-11-28T00:09:05.062Z"
+    },
     {
       "version": "1.5.14",
       "channel": "stable",
