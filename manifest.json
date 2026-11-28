@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-28T00:09:05.094Z",
+  "updated": "2026-11-28T13:37:17.268Z",
   "builds": [
+    {
+      "version": "2.0.0",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-2.0.0.dll",
+      "sha256": "c9905d03b44c96a0400022d4826a21c1b209ed81ae107bb5393c907a5c3aef5c",
+      "size": 2766336,
+      "notes": "2.0.0 - full revamp: redesigned launcher, in-client fog / fire / shield / potion HUD (no resource pack), fast inventory and instant slot, stretched resolution and aspect ratio, stronger FPS with one-click FPS Mode, 2-month premium.",
+      "date": "2026-11-28T13:37:17.020Z"
+    },
     {
       "version": "1.5.15",
       "channel": "stable",
@@ -256,9 +268,9 @@
     }
   ],
   "launcher": {
-    "version": "1.5.14",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-1.5.14/Essential-Client-1.5.14.exe",
-    "sha256": "8520d7c7b871a3eb33697a70531c753ab0e8a8b8cda78655c8fa5553b1a5098d",
-    "size": 112249801
+    "version": "2.0.0",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-2.0.0/Essential-Client-2.0.0.exe",
+    "sha256": "8791213a6029790aaba5bb8a9cb149cffb6381675b809ea79e5301cf87bfb5e4",
+    "size": 112287748
   }
 }
