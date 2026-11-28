@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-11-28T14:27:17.263Z",
+  "updated": "2026-11-28T14:43:23.124Z",
   "builds": [
+    {
+      "version": "2.0.1",
+      "channel": "stable",
+      "mc": [
+        "*"
+      ],
+      "url": "https://raw.githubusercontent.com/zvryyy/essential-client-updates/main/builds/EssentialClient-2.0.1.dll",
+      "sha256": "40db89ab83df50df9e85659543c8dc50e9eb6f4dbf766df4eb8c47305e7c19bb",
+      "size": 2768384,
+      "notes": "2.0.1 - 2.0.0 with fixes, auto-updates for everyone: launcher scrolling, Spotify now-playing, multiple module panels open in-game, Premium open, fixed download link.",
+      "date": "2026-11-28T14:43:22.861Z"
+    },
     {
       "version": "2.0.0",
       "channel": "stable",
@@ -268,9 +280,9 @@
     }
   ],
   "launcher": {
-    "version": "2.0.0",
-    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-2.0.0/Essential-Client-2.0.0.exe",
-    "sha256": "329db71bb86a4c54aadc84f97d8ddc9ea131d067354c7bf8808c29854977b4d9",
-    "size": 112292198
+    "version": "2.0.1",
+    "url": "https://github.com/zvryyy/essential-client-updates/releases/download/launcher-2.0.1/Essential-Client-2.0.1.exe",
+    "sha256": "3e2356d0ed96ffa862a297018cf146d08b4fb9bec608a450586d2ac0b945779a",
+    "size": 112289581
   }
 }
